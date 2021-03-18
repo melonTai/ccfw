@@ -1,0 +1,3 @@
+[submodule "trading_bot"]
+	path = trading_bot
+	url = https://github.com/melonTai/trading_bot.git

@@ -7,4 +7,3 @@ pyvenv.cfg
 __pycache__
 api_wrapper/**/main
 main
-trading_bot
