@@ -1,0 +1,10 @@
+Include
+Scripts
+Lib
+memo_socketio.txt
+*.log
+pyvenv.cfg
+__pycache__
+api_wrapper/**/main
+main
+trading_bot
